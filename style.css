@@ -1,5 +1,11 @@
 body {
     margin: 0;
     padding: 0;
+    background-color: grey;
+}
+
+.poney {
+    border: solid 1px red;
+    margin: auto 20px;
 }
 
